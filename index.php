@@ -157,4 +157,6 @@
     <script src="https://cdn.jsdelivr.net/npm/toastr@2.1.4/toastr.min.js"></script>
     <!-- SweetAlert2 v11.22.5 - CDN -->
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <!-- Custom JS -->
+    <script src="index.js"></script>
 </html>
